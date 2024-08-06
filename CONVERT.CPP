@@ -20,4 +20,4 @@ int main(){
     string s;
     cin >> s;
     convert(s);
-}
+} // nen lam như the nao
